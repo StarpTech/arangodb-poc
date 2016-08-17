@@ -1,5 +1,9 @@
 'use strict';
 
+/**
+ * Docs: https://github.com/arangodb/arangojs
+ */
+
 const arangojs = require('arangojs');
 
 let db = arangojs({
